@@ -2,6 +2,7 @@
   "name": "ice-blue-plus",
   "displayName": "ice-blue-plus",
   "description": "blue contrast theme",
+  "publisher": "thamudi",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.60.0"
