@@ -1,0 +1,21 @@
+{
+  "name": "ice-blue-plus",
+  "displayName": "ice-blue-plus",
+  "description": "blue contrast theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ice-blue-plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ice-blue-plus.json"
+      }
+    ]
+  }
+}
