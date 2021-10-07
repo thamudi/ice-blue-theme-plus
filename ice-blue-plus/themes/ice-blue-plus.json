@@ -290,7 +290,7 @@
       "name": "Function argument",
       "scope": "variable.other",
       "settings": {
-        "foreground": "#aec2e0",
+        "foreground": "#518bad",
         "fontStyle": ""
       }
     },
